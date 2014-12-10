@@ -3,4 +3,4 @@ hello-world
 
 My first repository on github
 
-This is to commit some changes
+My name is Shashank Sharma
